@@ -8,7 +8,7 @@
 - <font color='blue'> GRID FRAMEWORK </font> – JQGRID, EXTJS4
 - <font color='blue'> LAYOUT FRAMEWORK(TEMPLATE) </font> - SITEMESH , TILES, HANDLEBARS , MUSTACHE, FREEMAKER, JINJA2
 - <font color='blue'> WEB TECHNOLOGY </font> - HTML, XML, DOM PARSER,  WEB SERVICE (SOAP, REST), JAVASCRIPT, DOM, CSS, JSP , JSTL,JSON, XML  이해 및 활용.
-- <font color='blue'> IDE & TOOLS</font> -   ECLIPSE , NOTEPAD++ , ATOM, INTELLIJ( WEBSTROM , PPCHARM ,PHPSTROM )
+- <font color='blue'> IDE & TOOLS</font> -   ECLIPSE , NOTEPAD++ , ATOM, INTELLIJ Idea,  webstorm , PyCHARM  
 - <font color='blue'> WAS </font> - WEBLOGIC, WEBSPHERE , TOMCAT 6,7,8, RESIN, GLASSFISH ,jetty
 - <font color='blue'> OS </font> - LINUX, WINDOWS, UNIX
 - <font color='blue'> DBMS </font> - ORACLE , MSSQL , MYSQL , MARIADB, SQlite, h2, mongodb
@@ -21,10 +21,11 @@
 - <font color='blue'> ETC(BUILDTOOLS/CI) </font> - JUNIT, HUDSON(JENKINS), DROPZONE, ANT ,MAVEN,GRADLE
 - <font color='blue'> CSS FRAMEWORK </font> – BOOTSTRAP , JQUERYUI
 
+# etc
 
-- SPRINGMVC, SPRINGBOOT 기반 프레임웍 설정/ 연동 및 구축 가능</br>
-- 오픈소스 활용 및 커스터마이징 가능</br>
-- 웹어플리케이션 분석/설계/구현/개발 가능</br>
+- SPRINGMVC, SPRINGBOOT 기반 프레임웍 설정/ 연동 및 구축 가능
+- 오픈소스 활용 및 커스터마이징 가능
+- 웹어플리케이션 분석/설계/구현/개발 가능
 
 <http://stackoverflow.com/users/7328739/kyungjoon-go>
 
