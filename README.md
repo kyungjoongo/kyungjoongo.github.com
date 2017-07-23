@@ -1,32 +1,30 @@
 
-GitHub Pages Basics / Creating Project Pages using the command line
+#SKILL
 
-How can we help?
+LAGUAGE - JAVA/JSP/PHP/ASP/C  /C/JAVA /PYTHON, GROOVY
+SERVERSIDE FRAMEWORKS - STRUTS 1/2 , SPRING 3/4, EXPRESSJS,SPRINGBOOT,GRAILS
+UI FRAMEWORK (JAVASCRIPT FW)-   JQUERY , DWR, EXTJS 3,4, JQUERY_UI , ALOPEX_UI, ALOPEX_GRID, DOJO, JQGRID, ANGULARJS 1
+GRID FRAMEWORK – JQGRID, EXTJS4
+LAYOUT FRAMEWORK(TEMPLATE) - SITEMESH , TILES, HANDLEBARS , MUSTACHE, FREEMAKER, JINJA2
+WEB TECHNOLOGY - HTML, XML, DOM PARSER,  WEB SERVICE (SOAP, REST), JAVASCRIPT, DOM, CSS, JSP , JSTL,JSON, XML  이해 및 활용.
+IDE & TOOLS-   ECLIPSE , NOTEPAD++ , ATOM, INTELLIJ( WEBSTROM , PPCHARM ,PHPSTROM )
+WAS - WEBLOGIC, WEBSPHERE , TOMCAT 6,7,8, RESIN, GLASSFISH ,jetty
+OS - LINUX, WINDOWS, UNIX
+DBMS - ORACLE , MSSQL , MYSQL , MARIADB, SQlite, h2, mongodb
+PERSISTANCE(MODEL) FWK - MYBATIS , IBATIS ,JPA, HIBERNATE, GORM
+,VERSION CONTROL-  SVN, CVS, GIT
+CHART LIB - FUSION CHART , DOJOCHART, JQPLOT
+JAVA FRAMEWORK -   STRUTS 1,2 , SPRING 3,4 , NINJA, SPRINGBOOT, ANDROID
+PYTHON WEB FRAMEWORK = DJANGO,FLASK
+JAVASCRIPT WEB FRAMEWORK– EXPRESSJS ( nodejs)
+ETC(BUILDTOOLS/CI) - JUNIT, HUDSON(JENKINS), DROPZONE, ANT ,MAVEN,GRADLE
+CSS FRAMEWORK – BOOTSTRAP , JQUERYUI
 
-Creating Project Pages using the command line
-If you're familiar with command-line Git, it's straightforward to manually create a Project Pages site.
+SPRINGMVC, SPRINGBOOT 기반 프레임웍 설정/ 연동 및 구축 가능
+오픈소스 활용 및 커스터마이징 가능
+웹어플리케이션 분석/설계/구현/개발 가능
 
-Make a fresh clone
-
-To set up a Project Pages site, you need to create a new "orphan" branch (a branch that has no common history with an existing branch) in your repository. The safest way to do this is to start with a fresh clone:
-
-git clone https://github.com/user/repository.git
-# Clone our repository
-Cloning into 'repository'...
-remote: Counting objects: 2791, done.
-remote: Compressing objects: 100% (1225/1225), done.
-remote: Total 2791 (delta 1722), reused 2513 (delta 1493)
-Receiving objects: 100% (2791/2791), 3.77 MiB | 969 KiB/s, done.
-Resolving deltas: 100% (1722/1722), done.
-Create a master branch
-
-Once you have a clean repository, you'll need to create a new master branch unless your cloned repository already has a master branch.
-
-Tip: You can also create a gh-pages branch for your Project Pages site instead. To learn more about your options, including the option to publish your Project Page from a /docs folder on your master branch, see "User, Organization, and Project Pages."
-Switch directories into your new cloned repository:
-
-cd repository
-Check if your repository already has a master branch:
-
-git branch
-# shows a list of branches for your repository
+http://stackoverflow.com/users/7328739/kyungjoon-go
+https://github.com/kyungjoongo
+https://goo.gl/70s2yl
+https://goo.gl/4kfc34
