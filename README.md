@@ -8,7 +8,7 @@
 - <font color='blue'> GRID FRAMEWORK </font>  JQGRID, EXTJS4
 - <font color='blue'> LAYOUT FRAMEWORK(TEMPLATE) </font>  SITEMESH , TILES, HANDLEBARS , MUSTACHE, FREEMAKER, JINJA2
 - <font color='blue'> WEB TECHNOLOGY </font>  HTML, XML, DOM PARSER,  WEB SERVICE (SOAP, REST), JAVASCRIPT, DOM, CSS, JSP , JSTL,JSON, XML  이해 및 활용.
-- <font color='blue'> IDE & TOOLS</font>    ECLIPSE , NOTEPAD++ , ATOM, INTELLIJ Idea,  PyCHARM  , WEBSTORM
+- <font color='blue'> IDE & TOOLS</font> ECLIPSE , NOTEPAD++ , ATOM, INTELLIJ Idea,  PyCHARM  , WEBSTORM
 - <font color='blue'> WAS </font>  WEBLOGIC, WEBSPHERE , TOMCAT 6,7,8, RESIN, GLASSFISH ,jetty
 - <font color='blue'> OS </font>  LINUX, WINDOWS, UNIX
 - <font color='blue'> DBMS </font>  ORACLE , MSSQL , MYSQL , MARIADB, SQlite, h2, mongodb
