@@ -2,9 +2,9 @@
 # SKILL
 
 
-- <font color='blue'> LAGUAGE </font>  JAVA,JSP,PHP,ASP,C,JAVA,PYTHON,GROOVY  
-- <font color='blue'> SERVERSIDE FRAMEWORKS</font>   STRUTS 1/2 , SPRING 3/4, EXPRESS,SPRINGBOOT,GRAILS, django
-- <font color='blue'> UI FRAMEWORK (JAVASCRIPT FW)</font>    JQUERY , DWR, EXTJS 3,4, JQUERY_UI , ALOPEX_UI, ALOPEX_GRID, DOJO, JQGRID, ANGULARJS 1
+- <font color='blue'> LAGUAGE </font> JAVA,JSP,PHP,ASP,C,JAVA,PYTHON,GROOVY  
+- <font color='blue'> SERVERSIDE FRAMEWORKS</font> STRUTS 1/2 , SPRING 3/4, EXPRESS,SPRINGBOOT,GRAILS, django
+- <font color='blue'> UI FRAMEWORK (JAVASCRIPT FW)</font> JQUERY , DWR, EXTJS 3,4, JQUERY_UI , ALOPEX_UI, ALOPEX_GRID, DOJO, JQGRID, ANGULARJS 1
 - <font color='blue'> GRID FRAMEWORK </font>  JQGRID, EXTJS4
 - <font color='blue'> LAYOUT FRAMEWORK(TEMPLATE) </font>  SITEMESH , TILES, HANDLEBARS , MUSTACHE, FREEMAKER, JINJA2
 - <font color='blue'> WEB TECHNOLOGY </font>  HTML, XML, DOM PARSER,  WEB SERVICE (SOAP, REST), JAVASCRIPT, DOM, CSS, JSP , JSTL,JSON, XML  이해 및 활용.
@@ -14,7 +14,7 @@
 - <font color='blue'> DBMS </font>  ORACLE , MSSQL , MYSQL , MARIADB, SQlite, h2, mongodb
 - <font color='blue'> PERSISTANCE(MODEL) FWK </font> - MYBATIS , IBATIS ,JPA, HIBERNATE, GORM ,VERSION CONTROL-  SVN, CVS, GIT
 - <font color='blue'> CHART LIB </font>  FUSION CHART , DOJOCHART, JQPLOT
-- <font color='blue'> JAVA FRAMEWORK </font>    STRUTS 1,2 , SPRING 3,4 , NINJA, SPRINGBOOT, ANDROID
+- <font color='blue'> JAVA FRAMEWORK </font> STRUTS 1,2 , SPRING 3,4 , NINJA, SPRINGBOOT, ANDROID
 - <font color='blue'> PYTHON WEB FRAMEWORK </font>  DJANGO,FLASK
 - <font color='blue'> JAVASCRIPT WEB FRAMEWORK </font>  EXPRESS ( nodejs)
 - <font color='blue'> ETC(BUILD/CI) </font>  JUNIT, HUDSON(JENKINS), DROPZONE, ANT, MAVEN ,GRADLE
