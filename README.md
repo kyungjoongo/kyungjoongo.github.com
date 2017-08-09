@@ -31,7 +31,7 @@
 
 <https://github.com/kyungjoongo>
 
--명언팩토리
+- 명언팩토리
 http://goo.gl/P2mXJM
 
 - regram
