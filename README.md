@@ -31,9 +31,8 @@
 
 <https://github.com/kyungjoongo>
 
-<https://goo.gl/70s2yl>
-
-<https://goo.gl/4kfc34>
+-명언팩토리
+http://goo.gl/P2mXJM
 
 - regram
 <https://goo.gl/dLPn1z>
