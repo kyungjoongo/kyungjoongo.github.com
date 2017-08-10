@@ -33,7 +33,7 @@
 
 - 명언팩토리
 
-http://goo.gl/P2mXJM
+<http://goo.gl/P2mXJM>
 
 - regram
 
