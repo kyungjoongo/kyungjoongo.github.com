@@ -34,6 +34,8 @@
 - 명언팩토리
 
 <http://goo.gl/P2mXJM>
+<https://play.google.com/store/apps/details?id=com.kyungjoon.thegenius.proverbfactoryeng>
+
 
 - regram
 
