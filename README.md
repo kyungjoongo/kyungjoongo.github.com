@@ -24,7 +24,7 @@
 # etc
 
 - SPRINGMVC, SPRINGBOOT 기반 프레임웍 설정/ 연동 및 구축 가능
-- 오픈소스 활용 및 커스터마이징 가능
+- 오픈소스 활용 및 커스터마이징 가능(
 - 웹어플리케이션 분석/설계/구현/개발 가능
 
 <http://stackoverflow.com/users/7328739/kyungjoon-go>
@@ -34,6 +34,9 @@
 - 명언팩토리
 
 <http://goo.gl/P2mXJM>
+
+- proverb factpry
+
 <https://play.google.com/store/apps/details?id=com.kyungjoon.thegenius.proverbfactoryeng>
 
 
