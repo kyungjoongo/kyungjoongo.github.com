@@ -1,5 +1,5 @@
 
-# SKILL (LOOK-SEE-DOWRITECODE)
+# SKILL 
 
 
 - <font color='blue'> LAGUAGE </font> JAVA,JSP,PHP,ASP,C,JAVA,PYTHON,GROOVY  
