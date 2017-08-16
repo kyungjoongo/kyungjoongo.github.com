@@ -1,5 +1,5 @@
 
-# SKILL
+# SKILL (LOOK-SEE-DO WRITE CODE^^)
 
 
 - <font color='blue'> LAGUAGE </font> JAVA,JSP,PHP,ASP,C,JAVA,PYTHON,GROOVY  
