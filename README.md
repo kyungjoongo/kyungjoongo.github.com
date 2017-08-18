@@ -12,7 +12,8 @@
 - <font color='blue'> WAS </font>  WEBLOGIC, WEBSPHERE , TOMCAT 6,7,8, RESIN, GLASSFISH ,jetty
 - <font color='blue'> OS </font>  LINUX, WINDOWS, UNIX
 - <font color='blue'> DBMS </font>  ORACLE , MSSQL , MYSQL , MARIADB, SQlite, h2, mongodb
-- <font color='blue'> PERSISTANCE(MODEL) FWK </font> - MYBATIS , IBATIS ,JPA, HIBERNATE, GORM ,VERSION CONTROL-  SVN, CVS, GIT
+- <font color='blue'> PERSISTANCE(MODEL) FWK </font> - MYBATIS , IBATIS ,JPA, HIBERNATE, GORM 
+- <font color='blue'> VERSION CONTROL-  SVN, CVS, GIT
 - <font color='blue'> CHART LIB </font>  FUSION CHART , DOJOCHART, JQPLOT
 - <font color='blue'> JAVA FRAMEWORK </font> STRUTS 1,2 , SPRING 3,4 , NINJA, SPRINGBOOT, ANDROID
 - <font color='blue'> PYTHON WEB FRAMEWORK </font>  DJANGO,FLASK
@@ -35,7 +36,7 @@
 
 <http://goo.gl/P2mXJM>
 
-- proverb factpry
+- proverb factory
 
 <https://play.google.com/store/apps/details?id=com.kyungjoon.thegenius.proverbfactoryeng>
 
