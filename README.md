@@ -12,16 +12,26 @@
 - <font color='blue'> WAS </font>  WEBLOGIC, WEBSPHERE , TOMCAT 6,7,8, RESIN, GLASSFISH ,jetty
 - <font color='blue'> OS </font>  LINUX, WINDOWS, UNIX
 - <font color='blue'> DBMS </font>  ORACLE , MSSQL , MYSQL , MARIADB, SQlite, h2, mongodb
-- <font color='blue'> PERSISTANCE(MODEL) FWK </font> - MYBATIS , IBATIS ,JPA, HIBERNATE, GORM 
-- <font color='blue'> VERSION CONTROL-  SVN, CVS, GIT
-- <font color='blue'> CHART LIB </font>  FUSION CHART , DOJOCHART, JQPLOT
-- <font color='blue'> JAVA FRAMEWORK </font> STRUTS 1,2 , SPRING 3,4 , NINJA, SPRINGBOOT, ANDROID
-- <font color='blue'> PYTHON WEB FRAMEWORK </font>  DJANGO,FLASK
-- <font color='blue'> JAVASCRIPT WEB FRAMEWORK </font>  EXPRESS ( nodejs)
-- <font color='blue'> ETC(BUILD/CI) </font>  JUNIT, HUDSON(JENKINS), DROPZONE, ANT, MAVEN ,GRADLE
-- <font color='blue'> CSS FRAMEWORK </font>  BOOTSTRAP , JQUERYUI
-- <font color='blue'> CLOUD COMPUTE ENGINE </font>  AMAZONE WEB SERVICE ,GOOGLE CLOUD
-- <font color='blue'> WEB-APP FRAMEWORK </font>  IONIC1, CORDOVA, ionic3, angular2/4
+- <font color='blue'> PERSISTANCE(MODEL) FWK </font> -
+MYBATIS , IBATIS ,JPA, HIBERNATE, GORM 
+- <font color='blue'> VERSION CONTROL- 
+  SVN, CVS, GIT
+- <font color='blue'> CHART LIB </font> 
+  FUSION CHART , DOJOCHART, JQPLOT
+- <font color='blue'> JAVA FRAMEWORK </font> 
+  STRUTS 1,2 , SPRING 3,4 , NINJA, SPRINGBOOT, ANDROID
+- <font color='blue'> PYTHON WEB FRAMEWORK </font> 
+  DJANGO,FLASK
+- <font color='blue'> JAVASCRIPT WEB FRAMEWORK </font>  
+  EXPRESS ( nodejs)
+- <font color='blue'> ETC(BUILD/CI) </font> 
+  JUNIT, HUDSON(JENKINS), DROPZONE, ANT, MAVEN ,GRADLE
+- <font color='blue'> CSS FRAMEWORK </font> 
+  BOOTSTRAP , JQUERYUI
+- <font color='blue'> CLOUD COMPUTE ENGINE </font> 
+  AMAZONE WEB SERVICE ,GOOGLE CLOUD
+- <font color='blue'> WEB-APP FRAMEWORK </font> 
+  IONIC1, CORDOVA, ionic3, angular2/4
 
 # etc
 
