@@ -21,7 +21,7 @@
 - <font color='blue'> ETC(BUILD/CI) </font>  JUNIT, HUDSON(JENKINS), DROPZONE, ANT, MAVEN ,GRADLE
 - <font color='blue'> CSS FRAMEWORK </font>  BOOTSTRAP , JQUERYUI
 - <font color='blue'> CLOUD COMPUTE ENGINE </font>  AMAZONE WEB SERVICE ,GOOGLE CLOUD
-- <font color='blue'> WEB-APP FRAMEWORK </font>  IONIC1, CORDOVA
+- <font color='blue'> WEB-APP FRAMEWORK </font>  IONIC1, CORDOVA, ionic3, angular2/4
 
 # etc
 
