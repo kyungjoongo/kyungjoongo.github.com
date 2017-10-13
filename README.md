@@ -43,9 +43,10 @@ MYBATIS , IBATIS ,JPA, HIBERNATE, GORM
 
 <https://github.com/kyungjoongo>
 
-- 명언팩토리
+- 명언레시피 (with ionic3, ionic-native, grails3(springboot), angular4 ) 
+<https://play.google.com/store/apps/details?id=io.kyungjoon.proverb_ionic_001>
 
-<http://goo.gl/P2mXJM>
+
 
 - proverb factory
 
