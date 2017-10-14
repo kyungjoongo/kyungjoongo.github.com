@@ -11,7 +11,7 @@
 - <font color='blue'> IDE & TOOLS :</font> INTELLIJ Idea,  PyCHARM  , WEBSTORM,  ECLIPSE , NOTEPAD++ , ATOM, VSCODE
 - <font color='blue'> WAS :</font>  WEBLOGIC, WEBSPHERE , TOMCAT 6,7,8, RESIN, GLASSFISH ,jetty
 - <font color='blue'> OS:</font>  LINUX, WINDOWS, UNIX
-- <font color='blue'> DBMS :</font>  ORACLE , MSSQL , MYSQL , MARIADB, SQlite, h2, mongodb, Angular Firebase2
+- <font color='blue'> DBMS :</font>  ORACLE , MSSQL , MYSQL , MARIADB, SQlite, h2, mongodb, Firebase
 - <font color='blue'> PERSISTANCE(MODEL) FWK: </font> -
 MYBATIS , IBATIS ,JPA, HIBERNATE, GORM 
 - <font color='blue'> VERSION CONTROL :</font>
