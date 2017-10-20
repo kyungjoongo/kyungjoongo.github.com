@@ -32,6 +32,9 @@ MYBATIS , IBATIS ,JPA, HIBERNATE, GORM
   AMAZONE WEB SERVICE ,GOOGLE CLOUD
 - <font color='blue'> WEB-APP FRAMEWORK :</font> 
   IONIC1, CORDOVA, ionic3, angular2/4
+  
+ - <font color='blue'> OAuth :</font> 
+  Google+ , Facebook
 
 # etc
 
