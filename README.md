@@ -46,7 +46,7 @@ MYBATIS , IBATIS ,JPA, HIBERNATE, GORM
 
 <https://github.com/kyungjoongo>
 
-- 명언레시피 (with ionic3, ionic-native, grails3(springboot), angular4 ) 
+- 명언레시피 
 <https://play.google.com/store/apps/details?id=io.kyungjoon.proverb_ionic_001>
 
 
