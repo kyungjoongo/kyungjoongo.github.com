@@ -4,14 +4,14 @@
 
 - <font color='blue'> LAGUAGE :  </font> JAVA,JSP,PHP4/5,ASP PYTHON, TYPESCRIPT2, GROOVY , KOTLIN
 - <font color='blue'> SERVERSIDE FRAMEWORKS :</font> STRUTS 1/2 , SPRING 3/4, EXPRESS,SPRINGBOOT,GRAILS (GROOVY), DJANGO(PYTHON)
-- <font color='blue'> UI FRAMEWORK (JAVASCRIPT FW):</font> JQUERY , DWR, EXTJS 3,4, JQUERY_UI , ALOPEX_UI, ALOPEX_GRID, DOJO, JQGRID, ANGULARJS , ANGULAR2/4
+- <font color='blue'> UI FRAMEWORK (JAVASCRIPT FW):</font> JQUERY , DWR, EXTJS 3,4, JQUERY_UI , ALOPEX_UI, ALOPEX_GRID, DOJO, JQGRID, ANGULARJS , ANGULAR2/4, ANGULAR MATERIAL
 - <font color='blue'> GRID FRAMEWORK :</font>  JQGRID, EXTJS4
 - <font color='blue'> LAYOUT FRAMEWORK(TEMPLATE) :</font>  SITEMESH , TILES, HANDLEBARS , MUSTACHE, FREEMAKER, JINJA2
 - <font color='blue'> WEB TECHNOLOGY :</font>  HTML, XML, DOM PARSER,  WEB SERVICE (SOAP, REST), JAVASCRIPT, DOM, CSS, JSP , JSTL,JSON, XML  이해 및 활용.
 - <font color='blue'> IDE & TOOLS :</font> INTELLIJ PLATFORM(IDEA,WEBSTORM,PyCHARM,DATAGRIP) , ECLIPSE , NOTEPAD++ , ATOM, VSCODE
 - <font color='blue'> WAS :</font>  WEBLOGIC, WEBSPHERE , TOMCAT 6,7,8, RESIN, GLASSFISH ,jetty
 - <font color='blue'> OS:</font>  LINUX, WINDOWS, UNIX
-- <font color='blue'> DBMS :</font>  ORACLE , MSSQL , MYSQL , MARIADB, SQlite, h2, mongodb, Firebase
+- <font color='blue'> DBMS :</font>  ORACLE , MSSQL , MYSQL ( MARIADB) , SQlite, h2, mongodb, Firebase, nedb, express-nedb-rest
 - <font color='blue'> PERSISTANCE(MODEL) FWK: </font> -
 MYBATIS , IBATIS ,JPA, HIBERNATE, GORM 
 - <font color='blue'> VERSION CONTROL :</font>
