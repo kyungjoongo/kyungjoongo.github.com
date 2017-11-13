@@ -58,4 +58,7 @@ https://play.google.com/store/apps/details?id=io.kyungjoon.jibbob001
 -  <font color='blue'>regram</font>
 <https://goo.gl/dLPn1z>
 
+-  <font color='blue'>ufc mania</font>
+https://play.google.com/store/apps/details?id=io.ionic.kyungjoon.ufcmania&rdid=io.ionic.kyungjoon.ufcmania
+
 
