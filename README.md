@@ -49,16 +49,13 @@ MYBATIS , IBATIS ,JPA, HIBERNATE, GORM
 - <font color='blue'> 집밥레시피 </font>
 https://play.google.com/store/apps/details?id=io.kyungjoon.jibbob001
 
-- <font color='blue'> 명언레시피 </font>
-<https://play.google.com/store/apps/details?id=io.kyungjoon.proverb_ionic_001>
-
-- <font color='blue'> proverb factory</font>
-<https://play.google.com/store/apps/details?id=com.kyungjoon.thegenius.proverbfactoryeng>
-
 -  <font color='blue'>regram</font>
 <https://goo.gl/dLPn1z>
 
 -  <font color='blue'>ufc mania</font>
 https://goo.gl/7tp3bN
+
+- <font color='blue'> 명언산책 </font>
+<https://play.google.com/store/apps/details?id=io.kyungjoon.proverlistnew>
 
 
