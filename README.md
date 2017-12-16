@@ -60,6 +60,7 @@ https://goo.gl/7tp3bN
 - <font color='blue'> 명언산책 </font>
 <https://play.google.com/store/apps/details?id=io.kyungjoon.proverlistnew>
 
+# blog
 <https://medium.com/@kyungjoongo/>
 
 
