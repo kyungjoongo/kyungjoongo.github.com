@@ -13,7 +13,7 @@
 - <font color='green' style="font-weight: bold"> DBMS :</font>  ORACLE , MSSQL , MYSQL ( MARIADB) , SQLite, H2, mongoDB, Firebase, NEDB
 - <font color='green' style="font-weight: bold"> PERSISTANCE : </font> - MYBATIS , IBATIS ,JPA, HIBERNATE, GORM 
 
-- <font color='green' > VERSION CONTROL :</font>
+- <font color='green' style="font-weight: bold" > VERSION CONTROL :</font>
   SVN, CVS, GIT
 - <font color='green' style="font-weight: bold"> CHART LIB :</font> 
   FUSION CHART , DOJOCHART, JQPLOT
