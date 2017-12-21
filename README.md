@@ -40,7 +40,7 @@
 - 오픈소스 활용 및 커스터마이징 가능(
 - 웹어플리케이션 분석/설계/구현/개발 가능
 
-- stackoverflow :  <http://stackoverflow.com/users/7328739/kyungjoon-go>
+- stackoverflow :  <https://stackoverflow.com/users/5934559/kyungjoon-go>
 
 - github : <https://github.com/kyungjoongo>
 
