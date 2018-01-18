@@ -54,6 +54,8 @@
 
 - <font color='blue'> 명언산책 </font> : <https://play.google.com/store/apps/details?id=io.kyungjoon.proverlistnew>
 
+- <font color='blue'>  </font> :<https://play.google.com/store/apps/details?id=io.kyungjoongo.bit_gogogo>
+
 
 ## blog
 - <https://medium.com/@kyungjoongo/>
