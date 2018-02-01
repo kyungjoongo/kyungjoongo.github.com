@@ -56,7 +56,7 @@
 
 - <font color='blue'> 비트가즈아 </font> :<https://play.google.com/store/apps/details?id=io.kyungjoongo.bit_gogogo>
 
-
+- <font color='blue'>  유머가즈아 </font> : https://play.google.com/store/apps/details?id=io.kyungjoon.humor_gazuaa
 
 ## blog
 - <https://medium.com/@kyungjoongo/>
