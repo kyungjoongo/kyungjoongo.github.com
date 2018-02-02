@@ -40,6 +40,8 @@
 - 오픈소스 활용 및 커스터마이징 가능(
 - 웹어플리케이션 분석/설계/구현/개발 가능
 
+- gitlab(private) :https://gitlab.com/kyungjoongo
+
 - stackoverflow :  <https://stackoverflow.com/users/5934559/kyungjoon-go>
 
 - github : <https://github.com/kyungjoongo>
