@@ -29,8 +29,8 @@
   BOOTSTRAP ,JQUERYUI, ANGULAR MATERIAL, REACT MATERIAL
 - <font color='green' style="font-weight: bold"> CLOUD COMPUTE ENGINE: </font> 
   AMAZONE WEB SERVICE ,GOOGLE CLOUD
-- <font color='green' style="font-weight: bold"> WEB-APP FRAMEWORK :</font> 
-  IONIC1, IONIC-NATIVE, <b>IONIC3, ANGULAR 2/4/5</b>
+- <font color='green' style="font-weight: bold"> WEB(JAVASCRIPT)-APP FRAMEWORK :</font> 
+  IONIC1, IONIC-NATIVE, <b>IONIC3, ANGULAR 2/4/5</b> , REACT-NATIVE
   
  - <font color='green' style="font-weight: bold"> OAuth :</font> Google+ , Facebook 
 
