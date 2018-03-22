@@ -28,7 +28,7 @@
 - <font color='green' style="font-weight: bold"> CSS FRAMEWORK: </font> 
   BOOTSTRAP ,JQUERYUI, ANGULAR MATERIAL, REACT MATERIAL
 - <font color='green' style="font-weight: bold"> CLOUD COMPUTE ENGINE: </font> 
-  AMAZONE WEB SERVICE ,GOOGLE CLOUD
+  AMAZONE WEB SERVICE ,GOOGLE CLOUD, NBP CLOUD
 - <font color='green' style="font-weight: bold"> HYBRID(JAVASCRIPT)-APP FRAMEWORK :</font> 
   IONIC1, IONIC-NATIVE, <b>IONIC3, ANGULAR 2/4/5</b> , <b> REACT-NATIVE </b>
   
